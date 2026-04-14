@@ -1,0 +1,6 @@
+print("Name: Usirikayala Sai kiran")
+print("Course: Python Full Stack")
+print("Student ID: CGH3054")
+print("Passout year: 2025")
+print("Stream: CSE")
+print("College: Malla Reddy Engineering College")
